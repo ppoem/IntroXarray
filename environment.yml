@@ -10,5 +10,4 @@ dependencies:
   - fsspec
   - cartopy
   - cftime
-  - nc_time_axis
   
