@@ -1,4 +1,3 @@
-# IntroXarray
 # Introduction to NetCDF Data Crunching with Python's Xarray
 
 Click the icon to launch binder:
