@@ -10,4 +10,5 @@ dependencies:
   - fsspec
   - cartopy
   - cftime
+  - gcsfs
   
