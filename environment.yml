@@ -1,0 +1,14 @@
+name: IntroXarray
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - dask
+  - xarray
+  - fsspec
+  - cartopy
+  - cftime
+  - nc_time_axis
+  
