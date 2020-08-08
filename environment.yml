@@ -12,4 +12,4 @@ dependencies:
   - cftime
   - gcsfs
   - zarr
-  
+  - nc-time-axis
